@@ -1,0 +1,32 @@
+export const contractApp={
+  "single":{
+    "chainType":"contract",
+    "contractProductId":"CP0001-20171102160152-773416",
+    "contractTemplateId":"CT0001-20171102160152-740560",
+  },
+  "singleTimer":{
+    "chainType":"contract",
+    "contractProductId":"CP0002-20171102160152-200196",
+    "contractTemplateId":"CT0002-20171102160152-500462",
+  },
+  "multipleLong":{
+    "chainType":"contract",
+    "contractProductId":"CP0003-20171102160152-122852",
+    "contractTemplateId":"CT0003-20171102160152-123176",
+  },
+  "acrossUnNormal":{
+    "chainType":"contract",
+    "contractProductId":"CP0004-20171102160152-131659",
+    "contractTemplateId":"CT0004-20171102160152-123583",
+  },
+  "acrossNormal":{
+    "chainType":"contract",
+    "contractProductId":"CP0004-20171102160152-131659",
+    "contractTemplateId":"CT0004-20171102160152-123583",
+  },
+  "decision":{
+    "chainType":"contract",
+    "contractProductId":"CP0005-20171102160152-670379",
+    "contractTemplateId":"CT0005-20171102160152-689604",
+  }
+}
